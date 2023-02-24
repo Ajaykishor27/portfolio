@@ -1,0 +1,11 @@
+.fs{
+    font-family: 'Satisfy', cursive;
+
+}
+card.img{
+    width: 80%;
+    height: 200px;
+}
+.carousel-item img{
+    height: 400px;
+}
